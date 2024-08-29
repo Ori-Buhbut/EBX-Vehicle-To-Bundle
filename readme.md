@@ -1,3 +1,6 @@
+GOAL:
+easy way to create a superbundle with vehicles.
+
 installation:
 
 npm install
